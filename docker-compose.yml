@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  nginx:
+    image: nginx
+    container_name: personal_nginx
+    restart: always
+    ports:
+      - 80:80
+    volumes:
+      - ./build:/app
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
