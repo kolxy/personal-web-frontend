@@ -1,6 +1,5 @@
 # Personal Web Page Frontend
-
-This website is built on [React](https://reactjs.org/)
+Microsoft Azure live [demo](http://20.120.12.187)
 
 ## Setup
 
@@ -30,3 +29,6 @@ Then run the following
 ```sh
 docker compose up -d
 ```
+
+---
+This website is built on [React](https://reactjs.org/)
