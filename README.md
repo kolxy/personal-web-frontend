@@ -1,7 +1,7 @@
 # Personal Web Page Frontend
 Microsoft Azure live [demo](http://20.120.12.187)
 
-## Setup
+## Getting started
 
 If this is your first time building this project, please run:
 ```sh
