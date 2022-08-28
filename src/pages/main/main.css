@@ -86,13 +86,13 @@
   font-size: 32px;
   animation: 
     typing 4s steps(50, end),
-    blink-caret 1s step-end infinite;
+    blink-caret 1s 4s step-end infinite;
 }
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+  from { width: 0; border-color: #61dafb !important;}
+  to { width: 100%; border-color: #61dafb !important; }
 }
 
 /* The typewriter cursor effect */
