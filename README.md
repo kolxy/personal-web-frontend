@@ -1,5 +1,5 @@
 # Personal Web Page Frontend
-Microsoft Azure live [demo](http://20.120.12.187)
+Microsoft Azure live [demo](http://40.87.52.218)
 
 ## Getting started
 
